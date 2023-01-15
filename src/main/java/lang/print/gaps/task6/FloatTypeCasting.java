@@ -8,7 +8,7 @@ public class FloatTypeCasting {
         }
         else {
             cba = (int) numberToBeRounded;
-            cba+1;
+            cba+=1;
         }
         System.out.println(cba);
     }
